@@ -1,0 +1,32 @@
+Week 1
+Group formed. Decided as a group what project to do and what our group will be. Also made a discord. During this period I researched frameworks that we could use for the project. We plan on starting on working on the project proposal next week.
+
+Week 2 
+Joined github. As a group we discussed what user stories are needed and designated members of the group to work on the acceptance criterias. We also discussed what the UI design for our site should be like. Angelina, Miffy and I finalised the frameworks and technologies to be used for backend. For next week, we plan on finishing the proposal.
+
+Week 3
+I completed the acceptance criterias for my part of the user stories. We finished and submitted the proposal on Sunday. I wrote up the business layer and external actors for the system architecture, the summary for system functionalities and features for the background, the sprint schedule and planned user stories for first sprint. Next week I plan on starting on working on my part for sprint 1. 
+
+Week 4
+Scrum Master Mary assigned sprint 1 user stories to everyone on Tuesday. I have been assigned to do recipe search (using a list of given ingredients), and ingredients database. I was unable to start working on my part this week due to bad time management and being preoccupied with other assignments. I plan on finishing my part for sprint 1 next week.
+ 
+Week 5
+Finished my part for sprint 1 (ingredients database, and search for recipes given ingredients). Apart having to learn how to use FastApi and MongoDB, there were not many technical challenges for sprint 1. The main challenge for this week and sprint 1 in general was time management. We did our progressive demo A on Friday. We did our retrospective A right after the demo. Also assigned user stories for sprint 2. For week 7 we plan on finishing writing up Retrospective A and I plan on starting Sprint 2.
+ 
+Week 6 
+Flexi week, nothing was planned and nothing was completed.
+ 
+ Week 7 
+I finished draft Lists backend functions. Start on doing calendar functions. There were no technical challenges. I plan on finishing Calendar functions next week.
+ 
+ Week 8 
+ I finished a draft version of the Calendar functions. Caught COVID so was unable to do much. Also rewrote recipe search by ingredients. The previous function matched ingredients strings exactly. The new function matches substrings of ingredients. I had difficulties with writing a MongDB query that can search for substrings. We did Progressive Demo B on Friday in lab. We Retrospective B on Sunday. I plan on finishing my part for sprint 3 next week. 
+ 
+ Week 9 
+ Was only able to do about 80% of my part (Sort and Filters) for sprint 3. Had trouble using MongoDB queries. We planned to finish a draft version of our project on Sunday and start connecting frontend and backend on Sunday. I was unable to finish a draft version in time due to bad time management. We also had to postpone joining frontend and backend as other members were also not finished with their parts. I plan on finishing my part next next Wednesday.
+ 
+Week 10 
+Finished my part on Wednesday. We started joining backend and frontend on Tuesday. I was unable to finish by Tuesday as I had another assessment on Wednesday. Worked with frontend to join my part on Thursday. We did the final project demo on Friday. We started and finished the Project Report during this week and submitted on Friday. Also submitted code on Friday. Had difficulties doing Mongo queries. Mongo queries also suddenly became really slow on Thursday.
+
+
+

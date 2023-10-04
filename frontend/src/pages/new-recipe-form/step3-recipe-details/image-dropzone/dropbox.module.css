@@ -1,0 +1,37 @@
+.dropbox {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-width: 4px;
+    border-radius: 10px;
+    border-style: dashed;
+    background-color: #fafafa;
+    color: black;
+    font-weight: bold;
+    font-size: 1.4rem;
+    outline: none;
+    transition: border 0.24s ease-in-out;
+    margin-top: 15px;
+    color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.15);
+    height: calc(100% - 2em);
+    width: 100%;
+}
+
+.transparent {
+    visibility: hidden;
+}
+
+.isDragAccept {
+    border-color: #00e676
+}
+
+.isDragReject {
+    border-color: #ff1744
+}
+
+.isFocused {
+    border-color: #2196f3
+}

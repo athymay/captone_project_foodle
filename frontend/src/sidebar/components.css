@@ -1,0 +1,105 @@
+.heading_box {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+
+.heading {
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 16pt;
+    font-weight: bold;
+    position: relative;
+    color: #3BB927;
+    font-size: 20pt;
+}
+
+.ingredient-heading {
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.ingredients-box {
+    overflow: auto;
+    padding-right: 20px;
+    margin-right: -20px;
+}
+
+.ingredient-item {
+    border: 1px solid #d1d1d1;
+    padding: 10px;
+    padding-left: 20px;
+    position: flex;
+    text-align: left;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: inherit;
+    font: inherit;
+    width: 100%;
+    font-family: 'Outfit', sans-serif;
+    color: #484848
+}
+
+.selected-ingredient {
+    background-color: #3BB927;
+    border-color: #3BB927;
+    color: white;
+}
+
+.ingredient-item:hover {
+    cursor: pointer;
+    background-color: #3BB927;
+    color: white;
+}
+
+.selected-ingredient:hover {
+    background-color: #3BB927;
+    border-color: #3BB927;
+}
+
+.ingredient-item:active{
+    background-color: #3BB927;
+    color: rgb(255, 255, 255);
+}
+
+#calendar-box {
+    padding-right: 20px;
+    margin-right: -20px;
+    overflow-y: auto;
+}
+
+.pantry-list-button{
+    width: 90%;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: 1px solid #d1d1d1;
+    font-weight: bold;
+    display:flex;
+}
+
+.pantry-list-button:hover {
+    transition: background-color 250ms 
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms 
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms 
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms 
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    cursor: pointer;
+    background-color: #3BB927;
+    color: white;
+}
+
+#list-button {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}

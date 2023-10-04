@@ -1,0 +1,126 @@
+Week 1
+Group formed in our tute on Friday. Together my group and I decided our group
+name and what project we're going to do (recipe matcher). I created my own Jira
+Account and connected to our workspace as prompted by our scrum master. I also
+joined the group discord, which will be my group's main source of communication.
+I then did some research into resources we could use on the backend side of
+things, mainly the various ways we could obtain a recipe dataset - those links
+were pasted onto our discord backend channel. My group and I also discussed
+what functionalities we are going to incorporate into our project (normal,
+novel, extension).
+Before we broke up our meeting, we arranged the times we would meet up weekly
+from now on (Monday 7-8pm, Friday after labs). Next week we plan to get these
+done:
+- Update work diaries
+- Research frameworks and different websites
+- Get Jira + Github set up with user tasks / user stories
+
+Week 2
+Met up with the team on Monday evening. We fully ironed out our project
+functionalities (slight obstacle where we realised some of our ideas for novel
+functionalities had been done before, but those were resolved by moving some of
+our extension stuff into our novels). The Github had also just been released,
+so we got that set up as well. We also split up and assigned each person 2-3
+functionalities, and set the task of writing at least 5 user stories per person
+by our next meeting on Friday.
+I got cracking and wrote 6 user stories on Tuesday.
+During our Friday meeting, we discussed user stories and had a 7-minute design
+sprint where we each designed a portion of the UI and then presented our ideas
+once the timer was up. We then extensively discussed the UI and settled on a
+final design for the homepage and sidebar menus. We ended our meeting by
+arranging what needs to get done by our next weekly meeting on Tuesday 7pm next
+week (moved bc I am not free on the Monday public holiday):
+- Backend team (which I am part of) to get the System Architecture section of
+  the proposal done - for this we have arranged to have a meeting on Sunday 7pm.
+- For each user story we have written indivdually, also additionally write
+  Acceptance Criteria
+We technically didn't get the user stories on Jira yet (in reference to our
+week 1 plans for week 2), but that is because we did not realise that we also
+needed to write acceptance criteria. So once that is done by Tuesday next week,
+our scrum master will then have them added to Jira/Github.
+
+Week 3
+On Sunday, I wrote the Acceptance Criteria for each of my user stories. I ended
+up adding more user stories on top of the 6 I had previously, so now I have 9.
+During the backend team's group meeting that Sunday evening, we discussed and
+noted down skeleton points on each of the system architecture layers. We then
+split up the actual paragraph-writing work amongst ourselves, and adjorned the
+meeting. I then went on and completed my paragraphs on the database and
+infrastructure layers.
+During our Tuesday evening meeting, we viewed and the discussed the wireframes
+completed by the frontend team. I wrote a system architecture paragraph for the
+interface layer and had the frontend team double check it. We also ran into
+another roadblock where a team member found websites that have implemented our
+novel functionalities, so it was back to the drawing board as we discussed
+other novel functionalities we could do instead. Things to do by Friday: finish
+up what hasn't been done if you're behind schedule.
+During our tute on Friday, we caught up with everything we had due, and spoke
+to our tutor about our proposal. The backend team made a flowchart of the
+layers together, and the whole team fine tuned various edge cases with the UI.
+We plan to start coding after the proposal is submitted.
+
+Week 4
+My group had a Sunday meeting to finalise the proposal before submission.
+On Tuesday, we had another meeting to get assigned our respective user stories.
+I got EQ3900-{46,131,141}.
+On Wednesday, since I was the only one on my team with prior experience with
+using MongoDB, I took the initiative and went ahead and init-ed the backend
+folder and wrote some sample code to fetch / insert database documents for my
+teammates to reference. It was my first time writing a python backend so I
+learnt about FastAPI along the way.
+In our Friday tute this week, we clarified with each other on the parts of the
+spec / acceptance criteria we weren't sure with as we started implementing
+things. There was a minor clash in ideas on the way our data will be stored,
+which ultimately stemmed from the way mongo stores things differently from
+normal databses due to it be a noSQL database. It was resolved quickly, but
+this minor obstacle stood out to me and made me resolve to improve my
+communication skills by 1) being as explicit as possible when suggesting APIs
+to use, and 2) having put all the cards (i.e. information) on the table,
+getting alternate suggestions from the other members as well and taking a
+democratic vote.
+In the following week, we aim to finish our user stories by our Friday demo.
+
+Week 5
+I decided to put one of my assigned tasks (webscraping data) on hold, since it
+is not a priority. For the demo we could just use manually inputted dummy data.
+Our team met up online on Wednesday to ask further clarifying questions. There
+had been a slight communication breakdown and I had begun implementing
+something that had already been done by another team member on her separate
+branch. Luckily, it was caught in time. Upon reflection, doing updates with
+each other on what we did would be better in future.
+In our Friday tute, we did our demo and then proceeded to work on our
+retrospective. I raised the issue + remediation idea I described earlier.
+
+Week 7
+Worked a bit on my assigned tasks. Next week I aim to get more work done.
+
+Week 8
+I blocked out an entire Wednesday and completed in total quite a substantial
+amount of work for the week. I got 4/6 tasks and 2/3 of my assigned user
+stories completed for this sprint. Those completed were already extrememly
+taxing so I made the decision to put the remaining tasks on hold. I also did
+some frontend component refactoring and made a ton of new component files (I
+think about 40 new / changed files in total when I made a pull request?).
+We did the demo in our Friday tute; before it started we did some final
+touchups. I helped some of my members with some of the issues they were having
+with React. I also applied the use of user tokens in my code which my group
+members have newly implemented this sprint.
+My group plans to meet up the following Sunday to get cracking on retrospective
+B and to discuss which tasks and/or user stories to do for the next and final
+sprint.
+
+Week 9
+During our Sunday meeting, we worked on the retrospective and assigned
+ourselves tasks for Sprint 3.
+This week, I got cracking early and completed all of my assigned tasks this
+sprint to the extent I could (just waiting on other members to implement the
+backend API which should be relatively quick to implement on my end once that's
+ready).
+
+Week 10
+- Completed the filters.
+- Decided to rework my new recipe form into a stepped form and got that done
+  too. This may have been a bad idea since it was right before the demo, but I
+  got it done in the end (albeit it being slightly stressful).
+My group then did our demo in our Friday tute.
+This week we completed and submitted our project and final report.

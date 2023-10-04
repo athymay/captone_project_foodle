@@ -1,0 +1,51 @@
+Week 1:
+Created group and group name. Decided on a project idea - recipe recommendation system. Also created Jira accounts 
+and on method of communication (through discord). Started doing research into other available recipe recommendation 
+system to observe their features and functionalities.
+
+Week 2:
+Joined the github classroom. Brief discussion on what should be done during week 2 and decided to begin writing 
+users stories. Split up the users stories so that all members had a roughly even amount of functionalities 
+to cover. Had a group discussion to finalise ideas on how the UI of the product (home page and sidebar) should look like and the frameworks and main libraries to use in the backend.
+
+Week 3:
+Finished my user stories and acceptance criteria early on in the week. Continued to work on other sections of the proposal I was assigned including the
+background, comparison with other systems (I did Supercook and Allrecipes) and parts of the system architecture. By Sunday the group decided to have a
+meeting to finalise the proposal and hand it in. We also had a group meeting to assign tasks for sprint 1. I was assigned getting recipe data from recipe
+apis, implementing the base model for users and My Pantry’ (adding and removing ingredients) as well as returning recipe details. 
+
+Week 4:
+Worked on my assigned tasks for sprint 1. Considered which recipes apis to use (looked the quality of their data) and search for any supporting
+documentation on how to access the data I needed. Also familiarised myself with how MongoDB and noSQL could be used after a team member set up the 
+database mid week. 
+
+Week 5:
+Finished up my tasks mid week and had some trouble connecting the front and the back end since we were unfamiliar with fetch requests. However we managed
+to get it working by and on Friday. Had our progressive demo A on Friday, also had a group meeting got retrospective A where we assigned tasks for sprint
+2. I was assigned the web scraping, account (register, login, forget password).
+
+Week 6:
+Worked on my assigned tasks for sprint 2. Completed the web scraping in this week and populated the recipes database and decided to remove recipes 
+gathered from the recipe apis in sprint 1 since their data was not consistent and lacking. 
+
+Week 7:
+Rewrote retrospective A into a report format so that it could be handed in on Friday. Continued to work on my assigned tasks for sprint 2 and finished a
+draft for register and login. Had to complete some research on authentication security (tokens etc) in order to implement account. 
+
+Week 8:
+Finished up my tasks on early on in the week so that we could connect the front and back end. Implementing the email that is sent when a user’s password is
+reset required a significant amount of research due to changes in email servers security measures. Not the whole team managed to get their front and 
+backend sections connected (since many members were quite sick during sprint 2) but overall good progress was made.
+Had our progressive demo B on Friday, where we also split up and assigned tasks for sprint 3. I was assigned profile, ratings, expiry date and 
+notifications. Began considering how to implement the expiry date and doing some research on python schedulers. 
+
+Week 9:
+Had a group meeting on Monday to discuss and complete retrospective B which was due on Friday. Completed a first draft and tested all my assigned tasks
+(profile, ratings, expiry date and notifications)for sprint 3 by Sunday. Implementing a system which would check and update the database for ingredients' 
+expiry date correctly was slightly challenging and required testing overnight (added a cron job to the code). 
+
+Week 10:
+Had to adjust and add some extra backend routes to my assigned sections to ensure that it could connect properly to the front. Also added some extra 
+fields and refinements into the recipe database to help other's complete their filter and sort section. Also wrote a backend route for the recipe search 
+bar and made some adjustments to the database to help improve performance slightly. Since the final demo was on Friday, I also worked on the final report
+and created a rough outline (and presentation though it might not be necessary) for what was to be discussed during the demo. 

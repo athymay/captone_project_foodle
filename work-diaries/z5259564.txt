@@ -1,0 +1,69 @@
+Week 1 Friday
+We formed a group, decided on a group name, and we had set up the discord and jira accounts.
+
+Week 2 Monday
+Everyone had joined the github, we made plans for week 2 meetings and started to assign user stories
+Delegation of different user story categories to memebers to fulfil the brief.
+
+Week 2 Friday
+Completed user stories, and made User Interface plans so that we can start working on our own acceptance criteria. 
+
+Week 3 Tuesday
+Finalised wireframes and discussed novel features in order to satisfy the 2 unique functionalities.
+
+Week 3 Friday
+Finalise Figma prototypes for reference. During the meeting, different parts of the report was assighed to 
+different members in order to be completed before the proposal deadline on Sunday.
+
+Week 3 Sunday
+Finished up proposal with everyone, with last minute clarifications. All tasks, user stories and subtaks uploaded to jira.
+Proposal was submitted
+ 
+Week 4 Tuesday
+Jira was updated to assign taks to everyone, and Jira sprint 1 was set up. 
+
+Week 4 Tuesday
+Started frontend coding for creasting the components inside the sidebar for My Pantry and Ingredients.
+
+Week 5 Thursday
+Finish up coding the user interface for My Pantry and Ingredients.
+
+Week 5 Friday
+Demo A for sprint 1 was presented in class. Our Retrospective A meeting was conducted immedeatly afterwards.
+Tasks were assigned to the group and sprint 2 tasks were set up.
+
+Week 6 
+Flexi week, no meetings or work was conducted
+
+Week 7 Thursday
+Meeting was conducted to discuss Retrospective A report. Report was finalised and submitted.
+
+Week 8 Tuesday
+Attempt to refactor and correct code from sprint 1. Finished coding the auto complete for recipe search. 
+Implemented the delete functionality for My Pantry.
+
+Week 8 Wednesday
+Started the implementation of the Login and Register pages
+
+Week 8 Thursday
+Completed the implementation of the Login and Register pages, and successfully connected with the backend.
+
+Week 8 Friday
+Completed implementation of the "forgot password" pages and successfully connected with the backend
+
+Week 8 Sunday
+Retrospective B meeting was conducted
+
+Week 9 Wednesday
+Team meeting to finalise Retrospective B report. Did further work on the report.
+
+Week 9 Friday
+Retrospecitve B report finalised, and submitted.
+
+Week 10 
+Wokred on final project repport.
+Coded the account page, which displays if the user is logged in, if not then redirects to login page 
+Lists tab was updated to shwo a list of your lists. 
+Lists page was created which displays the recipies which are saved to a particular list.
+Save to list dialouge box was also created to save onto different lists.
+Refactor code to use React Contexts, and fix code in order to work.
